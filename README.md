@@ -41,7 +41,7 @@ Oyunun amacı, engelleri aşarak mümkün olduğunca yüksek bir skor elde etmek
 
 Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen şu adımları takip edin:
 
-1.  Fork yapın (https://github.com/kullaniciadi/ArcadeGame/fork)
+1.  Fork yapın (https://github.com/MelihOzaslan01/ArcadeGame/fork)
 2.  Yeni bir branch oluşturun (git checkout -b feature/yardimci-ozellik)
 3.  Değişikliklerinizi commit edin (git commit -am 'Yardımcı özellik ekle')
 4.  Branch'inize push yapın (git push origin feature/yardimci-ozellik)
